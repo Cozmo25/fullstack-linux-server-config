@@ -3,7 +3,7 @@
 # INSTRUCTIONS
 
 ## How to run the project
-1. Project Github repo is: https://github.com/Cozmo25/linux-server-config
+1. Project Github repo is: https://github.com/Cozmo25/frontend-linux-server-config
 2. Open a web browser and navigate to: http://54.255.227.255/
 3. Project Python & python library dependencies are:
     * Python 2.7
